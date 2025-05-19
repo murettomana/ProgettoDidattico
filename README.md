@@ -1,2 +1,1 @@
-# ProgettoDidattico
-Scaricare "final", progetto NetBeans funzionante
+"final" è il NetBeans project funzionante.
